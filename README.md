@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0287-find-the-duplicate-number) |
@@ -46,6 +47,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
