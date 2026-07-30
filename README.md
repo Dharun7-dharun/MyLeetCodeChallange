@@ -67,4 +67,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
