@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0724-find-pivot-index) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -33,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -73,4 +76,12 @@
 | [0175-combine-two-tables](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0196-delete-duplicate-emails) |
 | [0607-sales-person](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0607-sales-person) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
