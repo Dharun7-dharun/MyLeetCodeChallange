@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0169-majority-element) |
@@ -47,6 +48,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
