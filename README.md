@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
@@ -45,6 +46,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0287-find-the-duplicate-number) |
@@ -90,4 +92,20 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharun7-dharun/MyLeetCodeChallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
